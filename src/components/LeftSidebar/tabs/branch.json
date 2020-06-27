@@ -1,0 +1,8 @@
+[
+    { "key": "cs", "value": "Computer Science" },
+    { "key": "me", "value": "Mechanical" },
+    { "key": "ec", "value": "Electrical" },
+    { "key": "eee", "value": "Electronics & Communication" },
+    { "key": "is", "value": "Infomation Science" }
+
+]

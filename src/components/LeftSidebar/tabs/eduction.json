@@ -1,0 +1,9 @@
+[
+    { "key": "be", "value": "B.E" },
+    { "key": "btech", "value": "B.Tech" },
+    { "key": "bsc", "value": "B.Sc" },
+    { "key": "bca", "value": "BCA" },
+    { "key": "mtech", "value": "M.Tech" },
+    { "key": "msc", "value": "M.Sc" },
+    { "key": "mca", "value": "MCA" }
+]

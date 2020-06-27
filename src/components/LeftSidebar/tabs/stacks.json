@@ -1,0 +1,34 @@
+[
+    {
+        "key": "javafs",
+        "value": "Java Full Stack"
+    },
+    {
+        "key": "javabk",
+        "value": "Java Backend"
+    },
+    {
+        "key": "mern",
+        "value": "MERN Stack"
+    },
+    {
+        "key": "mean",
+        "value": "MEAN Stack"
+    },
+    {
+        "key": "react",
+        "value": "React JS"
+    },
+    {
+        "key": "angular",
+        "value": "Angular"
+    },
+    {
+        "key": "pythonfs",
+        "value": "Python Full Stack"
+    },
+    {
+        "key": "pythonbk",
+        "value": "Python Backend"
+    }
+]
